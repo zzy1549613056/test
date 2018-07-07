@@ -1,2 +1,2 @@
-This is V1.1 Version text
+This is V1.2 Version text
 hello
